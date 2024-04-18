@@ -30,7 +30,7 @@ h1 {
   color: #fff;
 }
 .container {
-  background-color:darkslateblue;
+  background-color:#5a68a1;
   background-image: url("photos/weather.jpg");
   background-size: cover; /* Cover the entire container with the background image */
   background-position: center;
