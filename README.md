@@ -1,4 +1,4 @@
-**WeatherApp **
+**WeatherApp**
 
 - Get real time weather forecast.
 - Developed using HTML,CSS and JavaScript.
